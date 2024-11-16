@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "android-app",
+            "name": "Android-app configuration",
+            "module": "test_strolls.composeApp.main",
+
+
+        },
+        {
+            "type": "xcode-app",
+            "name": "Xcode-app configuration",
+            "buildTarget": {
+                "project": "t",
+                "target": "",
+            },
+            "configuration": "",
+        },
+
+    ]
+}
